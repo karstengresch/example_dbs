@@ -1,6 +1,7 @@
 
 #
 # docker run -p 0.0.0.0:14572:3306 -e MYSQL_DATABASE=quintett -e MYSQL_USER=quintett -e MYSQL_ROOT_PASSWORD=nonono -d mysql:latest
+# TODO maybe better with docker-compose?
 
 FROM centos:latest
 ENV PACKAGE_URL https://repo.mysql.com/yum/mysql-5.7-community/docker/x86_64/mysql-community-server-minimal-5.7.15-1.el7.x86_64.rpm
