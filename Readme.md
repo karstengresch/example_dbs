@@ -13,3 +13,5 @@ I plan to use different example databases for different purposes:
   * Big data, content unclear yet, ~ 100 Mio records
  
 The idea is that executing 'docker run' will set you up a prefilled, ready-to use DB with enterprise content. 
+
+## General idea
