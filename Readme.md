@@ -17,4 +17,6 @@ The idea is that executing 'docker run' will set you up a prefilled, ready-to us
 ## General idea
 
   # ``docker run``
+  # MySQL (?) DB started
   # Shellscript inside the Docker image loads external (?) data.
+  
