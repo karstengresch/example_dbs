@@ -15,3 +15,6 @@ I plan to use different example databases for different purposes:
 The idea is that executing 'docker run' will set you up a prefilled, ready-to use DB with enterprise content. 
 
 ## General idea
+
+  # ``docker run``
+  # Shellscript inside the Docker image loads external (?) data.
