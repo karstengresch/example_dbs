@@ -1,0 +1,331 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fax",
+				"faxgateway-2014"
+			],
+			[
+				"Return",
+				"Return-Path"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Dockerfile",
+			"settings":
+			{
+				"buffer_size": 744,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 227.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"ColorSchemeSelector: Next Color Scheme"
+			],
+			[
+				"syn",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sche",
+				"ColorSchemeSelector: Next Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"KeybindingHelper: Show Command Assistant"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/karsten/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/karsten/none/home/sieve/kg_sieve.sieve",
+		"/Users/karsten/dev/ext/rhsa/demo/bpms-generic-loan-demo-master/support/docker/Dockerfile",
+		"/Users/karsten/Documents/runtime/ReadMe.txt",
+		"/Users/karsten/Library/Application Support/Sublime Text 3/Packages/Color Scheme - Default/Zenburnesque.tmTheme",
+		"/Users/karsten/Downloads/Elmedia Player/Schaue My Life Directed by Nicolas Winding Refn/mubi_player-8b2c2e3e5e2bd45677f43a5742ecab2c1.js",
+		"/Users/karsten/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/karsten/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/karsten/Library/Caches/Cleanup At Startup/Transmit/220CB55C-17DA-4236-81A9-C9A67A190C65/index.html",
+		"/Users/karsten/Downloads/calendar.vcs",
+		"/Users/karsten/dev/ext/rhsa/demo/bpms-generic-loan-demo-master/support/application-roles.properties",
+		"/Users/karsten/dev/ext/rhsa/local_install/bpms-mortgage-demo-master/init.sh",
+		"/Users/karsten/dev/ext/rhsa/local_install/bpms-mortgage-demo-master/target/jboss-eap-6.4/vault.keystore",
+		"/Users/karsten/Downloads/export-2.tsv",
+		"/Users/karsten/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/5238730E-8EAC-409F-898A-25BD9135A122/03 - Network and Scoring Rules.txt",
+		"/Users/karsten/dev/ext/rhsa/image/bento/builds/Vagrantfile",
+		"/Users/karsten/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/karsten/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"muidem-20140706@produktivitaeter.de",
+			"eclipse",
+			"alpenland",
+			"reilly",
+			"medium",
+			"Bank",
+			"netbank",
+			"system",
+			"faxgateway",
+			"faxgateway-2014@gresch.de",
+			"xing",
+			"tab",
+			"window",
+			"]]\"",
+			"]]",
+			"renderosity",
+			"service",
+			"if",
+			"ift",
+			"iftt",
+			"ifttt",
+			"Hotel",
+			"HRS",
+			"hrs",
+			"Kickstarter",
+			"kickstarter",
+			"kickst",
+			"freizeit",
+			"silicon",
+			"jguru",
+			"affiliate",
+			"trading",
+			"xing",
+			"Replica",
+			"bagatelle",
+			"freizeit",
+			"kath",
+			"katholische",
+			"redcoon",
+			"last",
+			"history",
+			"recent",
+			"2015",
+			"*",
+			"	;",
+			"  ;",
+			"     ;",
+			"	         ;",
+			";   EUR;",
+			"	;",
+			"          ",
+			"\\t\\t",
+			"f",
+			"\\t\\t",
+			" Quittung erforderlich",
+			"  Quittung erforderlich",
+			" EUR ",
+			"EUR "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"2016",
+			"* ",
+			";",
+			";EUR;",
+			";   ",
+			"\\t    ",
+			"    ",
+			"\\t\\tEUR\\t\\t    ",
+			"EUR    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Dockerfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 744,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Dockerfile Syntax Highlighting/Syntaxes/Dockerfile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "example_dbs.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
